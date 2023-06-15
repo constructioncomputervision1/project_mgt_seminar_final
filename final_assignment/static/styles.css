@@ -1,0 +1,27 @@
+body {
+    background-color: #CCCCCC; /* Change the color code to light grey */
+
+}
+
+
+.container {
+    background-color: #FFFFFF; /* Set the background color of the container to white */
+    padding: 20px; /* Add padding to create space between the content and the grey sides */
+}
+
+.scrollable-table {
+    background-color: #FFFFFF; /* Set the background color of the scrollable table section to white */
+    padding: 10px; /* Add padding to create space between the table and the grey sides */
+}
+
+.rounded-box {
+    border-radius: 10px; /* Add border-radius to create rounded corners */
+    padding: 20px; /* Add padding to create spacing inside the box */
+    margin-bottom: 20px; /* Add margin-bottom to create spacing between the boxes */
+}
+
+.rounded-graph {
+    border-radius: 10px; /* Add border-radius to create rounded corners */
+    padding: 20px; /* Add padding to create spacing inside the box */
+    margin-bottom: 20px; /* Add margin-bottom to create spacing between the boxes */
+}

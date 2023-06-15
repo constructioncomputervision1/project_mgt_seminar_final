@@ -1,0 +1,10 @@
+/* static/dashboard.css */
+body {
+    background-color: #f8f8f8;
+}
+
+.dashboard-panel {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
